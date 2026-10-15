@@ -1,0 +1,4 @@
+repository "JuegoPlataformas2D 2026-10-14_19-14-41/JuegoPlataformas2D@4674246496490@cloud"
+  path "/"
+    br "/main"
+    co "/main"
